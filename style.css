@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin: 100px auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+#countdown {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
